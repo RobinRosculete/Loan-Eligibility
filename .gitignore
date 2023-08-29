@@ -132,6 +132,7 @@ dmypy.json
 #Data Folder
 data/
 
+
 # General Mac
 .DS_Store
 .AppleDouble
